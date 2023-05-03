@@ -1,5 +1,7 @@
 # Hola mundo! 👋 Soy Patri!
 
+![header-github](https://user-images.githubusercontent.com/112122459/235880977-c2ab7a92-ba1c-4f54-9544-7cfb0eb118ff.png)
+
 ¡Hola, qué tal! Me llamo Patricia y soy una apasionada del diseño gráfico y del desarrollo web.
 
 He estado en el mundo del diseño por más de 5 años, pero gracias a mi anterior trabajo me picó el gusanillo del desarrollo web. Justo por ese motivo, me metí de lleno en el mundo de la tecnología para formarme como desarrolladora. 
