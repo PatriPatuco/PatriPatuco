@@ -32,7 +32,7 @@ Me encantaría poder seguir aprendiendo del sector y formarme más.
 
 Hey! I'm Patricia, passionate about graphic design and web development.
 
-I've been in the design world for over 5 years, but thanks to my previous job, I started to be very interested in web development. That's the reason why I dig more into the technology world.
+I've been designing all kind of things for over 5 years, but thanks to my previous job, I started to be very interested in web development. That's the reason why I dig more into the technology world.
 
 I consider myself a resourceful and committed person who loves team work. In addition, my experience as a designer has taught me how to work under pressure and deliver the best results in difficult situations.
 
