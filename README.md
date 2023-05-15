@@ -1,5 +1,7 @@
 # Hello world! 👋 I'm Patri, nice to meet you.
 
+![header-github](https://user-images.githubusercontent.com/112122459/235880977-c2ab7a92-ba1c-4f54-9544-7cfb0eb118ff.png)
+
 Hey! I'm Patricia, passionate about graphic design and web development.
 
 I've been designing all kind of things for over 5 years, but thanks to my previous job, I started to be very interested in web development. That's the reason why I dig more into the technology world.
@@ -27,11 +29,12 @@ I'd love to be able to keep learning from the industry and train myself more.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Patricia%20Becerra%20Corbacho-blue?style=flat&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=101010)]()
 
 
+
 -------------------
 
-# Hola mundo! 👋 Soy Patri!
 
-![header-github](https://user-images.githubusercontent.com/112122459/235880977-c2ab7a92-ba1c-4f54-9544-7cfb0eb118ff.png)
+
+# Hola mundo! 👋 Soy Patri!
 
 ¡Hola, qué tal! Me llamo Patricia y soy una apasionada del diseño gráfico y del desarrollo web.
 
