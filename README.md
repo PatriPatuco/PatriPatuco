@@ -1,3 +1,34 @@
+# Hello world! 👋 I'm Patri, nice to meet you.
+
+Hey! I'm Patricia, passionate about graphic design and web development.
+
+I've been designing all kind of things for over 5 years, but thanks to my previous job, I started to be very interested in web development. That's the reason why I dig more into the technology world.
+
+I consider myself a resourceful and committed person who loves team work. In addition, my experience as a designer has taught me how to work under pressure and deliver the best results in difficult situations.
+
+Outside of work, I enjoy my free time playing video games, watching some series, and spending time with my friends.
+
+### 🔭 I’m currently looking for a job.
+I'd love to be able to keep learning from the industry and train myself more.
+### 🌱 Technologies:
+*I'm deepening my learning, but I'd love to discover new languages 👀.
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=101010)]() - [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=101010)]()
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=101010)]() - [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=101010)]() - [![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white&labelColor=101010)]()
+
+[![NODEJS](https://img.shields.io/badge/NODEJS-339933?style=flat&logo=node.js&logoColor=white&labelColor=101010)]() - [![SQL](https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=101010)]() - [![MONGODB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=101010)]()
+
+[![GIT](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white&labelColor=101010)]() - [![GITHUB](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&labelColor=101010)]()
+
+
+### 📫 Would you like to contact me?
+[![Email](https://img.shields.io/badge/Email-patricia.beco.dg%40gmail.com-red?style=flat&logo=gmail&?link=http://left&link=http://patricia.beco.dg%40gmail.com&&labelColor=101010)]() - 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Patricia%20Becerra%20Corbacho-blue?style=flat&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=101010)]()
+
+
+-------------------
+
 # Hola mundo! 👋 Soy Patri!
 
 ![header-github](https://user-images.githubusercontent.com/112122459/235880977-c2ab7a92-ba1c-4f54-9544-7cfb0eb118ff.png)
@@ -26,34 +57,5 @@ Me encantaría poder seguir aprendiendo del sector y formarme más.
 
 
 ### 📫 ¿Quieres contactar conmigo?
-[![Email](https://img.shields.io/badge/Email-patricia.beco.dg%40gmail.com-red?style=flat&logo=gmail&?link=http://left&link=http://patricia.beco.dg%40gmail.com&&labelColor=101010)]() - 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Patricia%20Becerra%20Corbacho-blue?style=flat&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=101010)]()
-
-
--------------------
-
-Hey! I'm Patricia, passionate about graphic design and web development.
-
-I've been designing all kind of things for over 5 years, but thanks to my previous job, I started to be very interested in web development. That's the reason why I dig more into the technology world.
-
-I consider myself a resourceful and committed person who loves team work. In addition, my experience as a designer has taught me how to work under pressure and deliver the best results in difficult situations.
-
-Outside of work, I enjoy my free time playing video games, watching some series, and spending time with my friends.
-
-### 🔭 I’m currently looking for a job.
-I'd love to be able to keep learning from the industry and train myself more.
-### 🌱 Technologies:
-*I'm deepening my learning, but I'd love to discover new languages 👀.
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=101010)]() - [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=101010)]()
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=101010)]() - [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=101010)]() - [![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white&labelColor=101010)]()
-
-[![NODEJS](https://img.shields.io/badge/NODEJS-339933?style=flat&logo=node.js&logoColor=white&labelColor=101010)]() - [![SQL](https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=101010)]() - [![MONGODB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=101010)]()
-
-[![GIT](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white&labelColor=101010)]() - [![GITHUB](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&labelColor=101010)]()
-
-
-### 📫 Would you like to contact me?
 [![Email](https://img.shields.io/badge/Email-patricia.beco.dg%40gmail.com-red?style=flat&logo=gmail&?link=http://left&link=http://patricia.beco.dg%40gmail.com&&labelColor=101010)]() - 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Patricia%20Becerra%20Corbacho-blue?style=flat&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=101010)]()
